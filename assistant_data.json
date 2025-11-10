@@ -1,0 +1,188 @@
+{
+    "reminders": [
+        "go out to travel"
+    ],
+    "tasks": [],
+    "notes": [
+        {
+            "note": "this is a jarvis model which works fine",
+            "timestamp": "2025-09-24T23:49:25.753694"
+        },
+        {
+            "note": "this jarvis model note feautre  is working fine",
+            "timestamp": "2025-09-24T23:52:49.323533"
+        },
+        {
+            "note": "this model is successfuly tested!",
+            "timestamp": "2025-09-26T22:58:26.123158"
+        },
+        {
+            "note": "this model works fine",
+            "timestamp": "2025-09-26T23:39:44.260335"
+        },
+        {
+            "note": "the notes get saved to assistant_data.json file. got it?",
+            "timestamp": "2025-09-26T23:40:19.984971"
+        },
+        {
+            "note": "this time i'm using a different recorder, fuck gamebar fuck you xbox",
+            "timestamp": "2025-09-26T23:56:31.760879"
+        },
+        {
+            "note": "fuck you no one can replace jarvis. he is the goat!",
+            "timestamp": "2025-09-30T23:10:55.670856"
+        },
+        {
+            "note": "john lives 2km away from me",
+            "timestamp": "2025-10-06T19:41:00.940724"
+        },
+        {
+            "note": "jarvis is the goat",
+            "timestamp": "2025-10-08T23:04:10.641667"
+        },
+        {
+            "note": "this is the prototype testing i am talking about",
+            "timestamp": "2025-10-13T20:06:15.443671"
+        },
+        {
+            "note": "this is the final test run ok let's go",
+            "timestamp": "2025-10-13T20:52:10.421661"
+        },
+        {
+            "note": "are you capable of handling this model",
+            "timestamp": "2025-10-21T23:00:23.247575"
+        },
+        {
+            "note": "the person watching this video demo are gonna get good idea about how this works",
+            "timestamp": "2025-10-22T18:16:03.506865"
+        },
+        {
+            "note": "jarvis this is the demo",
+            "timestamp": "2025-11-10T00:31:17.230100"
+        }
+    ],
+    "habits": [
+        {
+            "name": "Morning Walk",
+            "streak": 7,
+            "last_done": "2025-10-22"
+        },
+        {
+            "name": "jarvis,  sleeping",
+            "streak": 0,
+            "last_done": null
+        },
+        {
+            "name": "walking",
+            "streak": 1,
+            "last_done": "2025-10-26",
+            "created_at": "2025-10-21T22:46:01.606005"
+        },
+        {
+            "name": "drinking water",
+            "streak": 1,
+            "last_done": "2025-10-21",
+            "created_at": "2025-10-21T22:53:59.550845"
+        },
+        {
+            "name": "reading book",
+            "streak": 1,
+            "last_done": "2025-10-22",
+            "created_at": "2025-10-22T18:19:56.049485"
+        }
+    ],
+    "schedule": {
+        "2025-10-30": {
+            "day_name": "Thursday",
+            "plans": [
+                "going out at 5pm",
+                "exercising for 2hrs",
+                "studying for 4-5hrs",
+                "not yet"
+            ],
+            "created_at": "2025-10-30T11:27:06.254250",
+            "reviewed": true
+        },
+        "2025-10-31": {
+            "day_name": "Friday",
+            "plans": [
+                "continuting with vector algebra",
+                "revising the previous calculus chapters",
+                "continuing with ac chapter",
+                "exercise for 20mins"
+            ],
+            "created_at": "2025-10-30T11:32:21.927075",
+            "reviewed": true
+        },
+        "2025-11-01": {
+            "day_name": "Saturday",
+            "plans": [
+                "fucking rhythm eating lunch",
+                "going out for walk"
+            ],
+            "created_at": "2025-11-01T18:59:59.565895",
+            "reviewed": false
+        },
+        "2025-11-06": {
+            "day_name": "Thursday",
+            "plans": [
+                "drinking water i guess"
+            ],
+            "created_at": "2025-11-06T23:38:44.290692",
+            "reviewed": false
+        }
+    },
+    "events": [
+        {
+            "title": "Mom's Birthday",
+            "date": "2025-11-12",
+            "description": "Buy cake and flowers"
+        }
+    ],
+    "schedule_last_asked": "2025-11-07",
+    "conversations": [
+        {
+            "timestamp": "2025-11-07T11:44:48.338178",
+            "user": "exam on 24",
+            "jarvis": "Sir, I presume you require assistance with your exam preparation on the 24th? Shall I suggest a study schedule, recommend resources, or perhaps devise a mnemonic strategy for your subject matter?\n"
+        },
+        {
+            "timestamp": "2025-11-07T11:48:08.244628",
+            "user": "good job jarvis",
+            "jarvis": "\"Your approval is duly noted, Sir. Shall we refine the study plan further, or does your schedule require another matter addressed?\"\n"
+        },
+        {
+            "timestamp": "2025-11-07T11:48:59.516408",
+            "user": "jarvis",
+            "jarvis": "\"Sir, at your service. Kindly specify your requirement, Sir.\"\n"
+        },
+        {
+            "timestamp": "2025-11-09T11:57:38.299852",
+            "user": "compo",
+            "jarvis": "Sir, could you clarify whether you require assistance with composing a document, a musical piece, or perhaps a proposition? Precision shall enhance my efficiency in aiding you.\n"
+        },
+        {
+            "timestamp": "2025-11-09T11:58:08.161257",
+            "user": "jarvis",
+            "jarvis": "Sir, do you wish to proceed with any of the aforementioned tasks, or perhaps another?\n"
+        },
+        {
+            "timestamp": "2025-11-10T11:13:45.384229",
+            "user": "kutte kutte",
+            "jarvis": "Ah, a colloquial salutation. Are you efficacious in the Finnish tongue, Sir?\n"
+        }
+    ],
+    "memory_context": {
+        "user_topics": [],
+        "unfinished_tasks": [],
+        "daily_focus": "improving the assistant code logic",
+        "last_discussion": "",
+        "last_active_time": ""
+    },
+    "personality_profile": {
+        "tone": "formal",
+        "verbosity": 0.55,
+        "humor_level": 0.2,
+        "interaction_score": 16
+    }
+}

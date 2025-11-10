@@ -1,0 +1,53 @@
+
+
+
+
+# === Core Speech & AI ===
+pyttsx4
+SpeechRecognition
+edge-tts
+gTTS
+win32gui
+re
+
+# === Web, Data, APIs ===
+requests
+beautifulsoup4
+newsapi-python
+google-generativeai
+openai
+feedparser
+
+# === Audio & UI ===
+playsound #==1.2.2
+pydub
+pygame
+
+# === System & Automation ===
+pyautogui
+pyperclip
+keyboard
+psutil
+colorama
+pywin32
+random
+paperclip
+
+# === Utility / Visual ===
+pywhatkit
+wikipedia
+pyfiglet
+flask
+pillow
+asyncio
+tempfile
+urllib.parse
+ctypes
+psutil
+# === ML Libraries (for AI expansions) ===
+torch
+transformers
+
+# === Optional Internal Utils ===
+# assistant-utils @ file://./assistant_utils
+# system-monitor @ file://./system_monitor

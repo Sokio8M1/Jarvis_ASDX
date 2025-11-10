@@ -1,0 +1,40 @@
+{
+  "api_keys": {
+    "open_ai": "YOUR_OPENAI_API_KEY_HERE",
+    "gemini": "YOUR_GEMINI_API_KEY_HERE",
+    "open_router": "your_api key",
+    "mistral": "your_api key",
+    "email_sender": "example@gmail.com",
+    "email_password": "email password",
+    "weather_api": "your_api key",
+    "news_api": "your_api key"
+  },
+  "contacts": [
+    {
+      "name": "boi",
+      "email": "example15@gmail.com",
+      "phone": "+91xxxxxxxxxx"
+    },
+    {
+      "name": "bob",
+      "email": "example1@gmail.com",
+      "phone": "+91xxxxxxxxxx"
+    },
+    {
+      "name": "nice girl",
+      "email":"example1+4567@gmail.com",
+      "phone":"+91xxxxxxxxxx"
+    }
+
+  ],
+  "settings": {
+    "wake_word": "jarvis",
+    "sleep_timeout": 30,
+    "preferred_ai_model": "openrouter",
+    "accessibility_mode": false,
+    "voice_rate": 171,
+    "voice_volume": 1.0,
+    "WEATHER_LOCATION":"Place, State, Country",
+    "gui_mode": "windowed"
+  }
+}

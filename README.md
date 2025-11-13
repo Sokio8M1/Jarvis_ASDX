@@ -4,6 +4,16 @@ The model name is **_Jarvis_** with 2 versions - 1.5(old) & 1.7(latest)
 
 The "**ASDX**" stands for **A**ssistant **S**ystem for **D**isabled **X**perimental [Xperimental = prototype model]
 
+_Features_:
+* runs silently in background after bootup , always there for you to respond on your "Hey jarvis" call.
+* can automate your tasks on command like messaging, opening sites, emailing(with "auto composing" feature), and many more.
+* Search for info form Google/Wikipedia
+* Says the weather, along with a warm welcome.
+* Handle habits, schedules and tasks.
+* Can customize Jarvis to your own preffernces.
+* Ai powered chat feature, always there to get you when required.
+* run os commands(experimental feature, can malfunction). 
+
 ___Team Members Name and Student Details :___
   
  Class XII Non Med / Med Students

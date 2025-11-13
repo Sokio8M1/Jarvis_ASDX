@@ -1,8 +1,9 @@
------ This is the Capstone Prjoect : AI Assistant for Disabled ------
-The model name is Jarvis with 2 versions - 1.5(old) & 1.7(latest)
+ # Capstone Prjoect : AI Assistant for Disabled 
+
+The model name is *_Jarvis_* with 2 versions - 1.5(old) & 1.7(latest)
 ___Team Members Name and Student Details :___
   
- # Class XII Non Med / Med Students
+ Class XII Non Med / Med Students
 * *Bhaswar Basu* - Coder/Designer of the prototype
 * *Adrija Banerjee* 
 * Shreyan Banerjee

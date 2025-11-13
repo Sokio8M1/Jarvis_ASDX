@@ -2,7 +2,7 @@
 
 The model name is **_Jarvis_** with 2 versions - 1.5(old) & 1.7(latest)
 
-The "**ASDX**" stands for **A**ssistant**S**ystem for **D**isabled **X**perimental [Xperimental = prototype model]
+The "**ASDX**" stands for **A**ssistant **S**ystem for **D**isabled **X**perimental [Xperimental = prototype model]
 
 ___Team Members Name and Student Details :___
   

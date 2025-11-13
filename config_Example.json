@@ -1,40 +1,108 @@
 {
   "api_keys": {
+    "google_credentials_path": "C:/Users/bhasw/OneDrive/Desktop/AI Assistant/Jarvis_ADSX/google_credentials.json", # needs to be changed as the win names has changed
+    "google_calender_json": "google_credentials",
     "open_ai": "YOUR_OPENAI_API_KEY_HERE",
     "gemini": "YOUR_GEMINI_API_KEY_HERE",
-    "open_router": "your_api key",
-    "mistral": "your_api key",
-    "email_sender": "example@gmail.com",
-    "email_password": "email password",
-    "weather_api": "your_api key",
-    "news_api": "your_api key"
+    "open_router": "your_api_key",
+    "mistral": "your_api_key",
+    "email_sender": "dummy08@gmail.com",
+    "test_email": "dummy15@gmail.com",
+    "email_password": "your_email_apppass",
+    "weather_api": "your_weatherapi_key", # actually not needed anymore as of dedicated no API logicto fetch weather details.
+    "news_api": "news_api_key"
   },
   "contacts": [
     {
-      "name": "boi",
-      "email": "example15@gmail.com",
-      "phone": "+91xxxxxxxxxx"
-    },
-    {
-      "name": "bob",
+      "id": 1,
+      "name": "contact1",
       "email": "example1@gmail.com",
+      "preferred_app": "whatsapp",
       "phone": "+91xxxxxxxxxx"
     },
     {
-      "name": "nice girl",
-      "email":"example1+4567@gmail.com",
-      "phone":"+91xxxxxxxxxx"
+      "id": 2,
+      "name": "contact2",
+      "email": "example2@gmail.com",
+      "preferred_app": "whatsapp",
+      "phone": "+91xxxxxxxxxx"
+    },
+    {
+      "id": 3,
+      "name": "contact3",
+      "email": "email31@gmail.com",
+      "preferre4d_app": "whatsapp",
+      "phone": "+91xxxxxxxxxx"
+    },
+    {
+     
+    },
+    {
+      "id": 4,
+      "name": "contact4",
+      "email": "example1@gmail.com",
+      "preferred_app": "whatsapp",
+      "phone": "+91xxxxxxxxxx"
+    },
+    {
+      "id": 5,
+      "name": "contact5",
+      "email": "example1@gmail134.com",
+      "preferred_app": "whatsapp",
+      "phone": "+91xxxxxxxxxx"
     }
-
   ],
   "settings": {
+    "user_name": "Rogo",
     "wake_word": "jarvis",
-    "sleep_timeout": 30,
+    "ASSISTANT_NAME": "jarvis",
+    "sleep_timeout": 20,
     "preferred_ai_model": "openrouter",
     "accessibility_mode": false,
     "voice_rate": 171,
     "voice_volume": 1.0,
-    "WEATHER_LOCATION":"Place, State, Country",
-    "gui_mode": "windowed"
-  }
+    "voice_mode": 0,
+    "voice_timeout": 2,
+    "voice_attempts": 3,
+    "phrase_time_limit": 6,
+    "calibration_duration": 0.5,
+    "dynamic_energy_threshold": true,
+    "energy_threshold_adjustment": 1.5,
+    "energy_threshold": 30,
+    "pause_threshold": 1.1,
+    "music_directory": "C:/Music",
+    "language": "en-us",
+    "WEATHER_LOCATION": "Kolkata",
+    "gui_mode": "maximized",
+    "// === OPTIMIZED STT CONFIGURATION ===": "",
+    "use_vad_whisper": true,
+    "// CRITICAL: Use base.en for 92%+ accuracy": "",
+    "whisper_model": "base.en",
+    "whisper_compute_type": "int8",
+    "// --- VAD Settings ---": "",
+    "vad_aggressiveness": 2,
+    "vad_silence_duration": 1.8,
+    "vad_min_speech_duration": 0.4,
+    "max_recording_duration": 20,
+    "// --- WHISPER Settings ---": "",
+    "whisper_beam_size": 3,
+    "whisper_best_of": 2,
+    "whisper_temperature": [
+      0.0,
+      0.2
+    ],
+    "whisper_compression_ratio_threshold": 2.4,
+    "whisper_logprob_threshold": -1.0,
+    "whisper_no_speech_threshold": 0.6,
+    "// ---- Backup Settings ----": "",
+    "max_backups": 10,
+    "auto_backup_before_repair": true,
+    "backup_compression": true,
+    "// --- Self-Repair Settings ---": "",
+    "auto_repair_mode": "interactive",
+    "require_backup_before_repair": true,
+    "log_all_repairs": true,
+    "honorific": "Sir",
+    "preferences_configured": true
+  },
 }

@@ -1,6 +1,6 @@
 {
   "api_keys": {
-    "google_credentials_path": "C:/Users/bhasw/OneDrive/Desktop/AI Assistant/Jarvis_ADSX/google_credentials.json", # needs to be changed as the win names has changed
+    "google_credentials_path": "C:/Users/bhasw/OneDrive/Desktop/AI Assistant/Jarvis_ADSX/google_credentials.json",
     "google_calender_json": "google_credentials",
     "open_ai": "YOUR_OPENAI_API_KEY_HERE",
     "gemini": "YOUR_GEMINI_API_KEY_HERE",
@@ -9,7 +9,7 @@
     "email_sender": "dummy08@gmail.com",
     "test_email": "dummy15@gmail.com",
     "email_password": "your_email_apppass",
-    "weather_api": "your_weatherapi_key", # actually not needed anymore as of dedicated no API logicto fetch weather details.
+    "weather_api": "your_weatherapi_key", 
     "news_api": "news_api_key"
   },
   "contacts": [
@@ -106,3 +106,4 @@
     "preferences_configured": true
   },
 }
+

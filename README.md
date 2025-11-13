@@ -1,6 +1,7 @@
  # Capstone Prjoect : AI Assistant for Disabled 
 
 The model name is *_Jarvis_* with 2 versions - 1.5(old) & 1.7(latest)
+
 ___Team Members Name and Student Details :___
   
  Class XII Non Med / Med Students

@@ -1,8 +1,8 @@
  # Capstone Prjoect : AI Assistant for Disabled 
 
-The model name is **_Jarvis_** with 2 versions - 1.5(old) & 1.7(latest)
+#### The model name is **_Jarvis_** with 2 versions - 1.5(old) & 1.7(latest)
 
-The "**ASDX**" stands for **A**ssistant **S**ystem for **D**isabled **X**perimental [Xperimental = prototype model]
+#### The "**ASDX**" stands for **A**ssistant **S**ystem for **D**isabled **X**perimental [Xperimental = prototype model]
 
 #### _Features_:
 * Runs silently in background after bootup , always there for you to respond on your "Hey jarvis" call. _Active Sleep/Wake_ feature

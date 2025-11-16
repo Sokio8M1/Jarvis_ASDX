@@ -14,7 +14,7 @@ _Features_:
 * Ai powered chat feature, always there to get you when required.
 * Run os/cmd commands(experimental feature, can malfunction). 
 
-___Team Members Name and Student Details :___
+###___Team Members Name and Student Details :___
   
  Class XII Non Med / Med Students
 * *Bhaswar Basu* - Coder/Designer of the prototype

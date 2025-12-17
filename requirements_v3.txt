@@ -5,7 +5,7 @@
 # === Core Speech & AI ===
 pyttsx4
 SpeechRecognition
-edge-tts
+edge-tts  # the newer 7.2.3 version has no voice found errors, try pip install edge-tts==7.2.1 , a downgraded version to use untill problem is fixed.
 gTTS
 win32gui
 re

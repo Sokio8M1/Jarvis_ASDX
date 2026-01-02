@@ -1,6 +1,6 @@
  # Capstone Prjoect : AI Assistant for Disabled 
 
-#### The model name is **_Jarvis_** with 2 versions - 1.5(old) & 1.7(latest)
+#### The model name is **_Jarvis_** 
 
 #### The "**ASD**" stands for **A**ssistant **S**ystem for **D**isabled.
 
